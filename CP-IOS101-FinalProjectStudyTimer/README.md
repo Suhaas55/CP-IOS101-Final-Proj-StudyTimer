@@ -63,7 +63,7 @@ Time spent: **10** hours total
 
 ## Wireframes
 
-[View Wireframe:](https://github.com/user-attachments/assets/7d567651-d868-4e4f-8a9f-3ada2271a1aa)
+[View Wireframe](https://github.com/user-attachments/assets/7d567651-d868-4e4f-8a9f-3ada2271a1aa)
 
 
 
