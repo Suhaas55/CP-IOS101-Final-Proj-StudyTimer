@@ -63,7 +63,7 @@ Time spent: **10** hours total
 
 ## Wireframes
 
-(https://github.com/user-attachments/assets/7d567651-d868-4e4f-8a9f-3ada2271a1aa)
+[View Wireframe:](https://github.com/user-attachments/assets/7d567651-d868-4e4f-8a9f-3ada2271a1aa)
 
 
 
@@ -90,7 +90,7 @@ Time spent: **10** hours total
 ## Video Walkthrough
 
 Here’s a quick demo of the core functionality in action:
-[Demo Video]([https://youtu.be/your-demo-link](https://www.loom.com/share/f8eacb4347404f779876271bac7706bd?sid=73180745-b4a5-4c43-90a5-f6fdb9769e9d))
+[Demo Video](https://youtu.be/your-demo-link](https://www.loom.com/share/f8eacb4347404f779876271bac7706bd?sid=73180745-b4a5-4c43-90a5-f6fdb9769e9d)
 
 ---
 
