@@ -62,14 +62,9 @@ Time spent: **10** hours total
 
 ## Wireframes
 
+(https://github.com/user-attachments/assets/7d567651-d868-4e4f-8a9f-3ada2271a1aa)
 
-![Wireframe: Timer Screen](#imageLiteral(resourceName: "ChatGPT Image Apr 21, 2025, 02_25_31 PM.png"))#imageLiteral(resourceName: "ChatGPT Image Apr 21, 2025, 02_25_31 PM.png")
-*Mockup of the main timer interface with labels, ring, and controls.*
 
-![Wireframe: Settings Screen](wireframe_settings.png)
-*Mockup of the settings screen with input fields and Save button.*
-
-*(Replace the above image links with your actual wireframe files in your repo.)*
 
 ---
 
