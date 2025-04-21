@@ -104,4 +104,4 @@ Here’s a quick demo of the core functionality in action:
 
 ## License
 
-*(Add your preferred license here, e.g. MIT, Apache 2.0, etc.)*
+-
