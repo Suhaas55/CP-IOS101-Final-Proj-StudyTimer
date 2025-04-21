@@ -22,6 +22,7 @@ Time spent: **10** hours total
 - [x] Automatically switch between “Focus” and “Break” modes when a session ends
 - [x] Settings screen to customize work‐ and break‐lengths
 - [x] Persist your chosen durations across app launches
+- [ ] Add App Icon
 
 ## Optional Features
 
@@ -89,7 +90,7 @@ Time spent: **10** hours total
 ## Video Walkthrough
 
 Here’s a quick demo of the core functionality in action:
-[Demo Video](https://youtu.be/your-demo-link)
+[Demo Video]([https://youtu.be/your-demo-link](https://www.loom.com/share/f8eacb4347404f779876271bac7706bd?sid=73180745-b4a5-4c43-90a5-f6fdb9769e9d))
 
 ---
 
